@@ -73,6 +73,19 @@ dependency: [Adding Lombok to a Gradle Project](https://projectlombok.org/setup/
 
 ![Spring Initializr Lombok Dependency](https://curriculum-content.s3.amazonaws.com/spring-mod-1/lombok/spring-initializr-lombok.png)
 
+### Adding the Lombok Plugin to IntelliJ
+
+We will also need to add the Lombok plugin to our IDE. To do so, navigate to File
+--> Settings --> Plugins. Once in the Plugins window, search for "Lombok".
+
+Click the "Install" button and then re-start your IDE once it says it has finished
+installing.
+
+Then navigate back to the Plugins screen and ensure that the plugin has been
+installed:
+
+![IntelliJ Lombok Plugin](https://curriculum-content.s3.amazonaws.com/spring-mod-1/lombok/intellij-lombok-plugin.png)
+
 ## Advantages of the Lombok Dependency
 
 The Lombok dependency can help minimize and reduce the amount of boilerplate code.
